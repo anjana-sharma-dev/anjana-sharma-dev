@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Anjana Sharma 👋
 
-<!--
-**anjana-sharma-dev/anjana-sharma-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Engineer | Ruby on Rails | Python & FastAPI
 
-Here are some ideas to get you started:
+Backend Engineer with 3+ years of professional experience in building backend applications using Ruby on Rails.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Technical Skills**
+- **Languages:** Ruby, Python
+- **Backend:** Ruby on Rails, FastAPI, REST APIs
+- **Database:** PostgreSQL, Redis
+- **Background Jobs:** Sidekiq, Celery, RQ
+- **Frontend:** React, HTML, CSS
+- **Tools:** Docker, Git, GitHub
+
+### Projects
+- Task Tracker API – FastAPI, Redis, Celery, RQ and Docker.
