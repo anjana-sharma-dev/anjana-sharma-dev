@@ -1,32 +1,24 @@
-# Hi, I'm Anjana Sharma 👋
+## Hi, I'm Anjana Sharma 👋
 
-### Backend Engineer | Ruby on Rails | Python & FastAPI
+### Python Backend Developer | FastAPI | PostgreSQL | Redis
 
-Backend Engineer with 3.5+ years of professional experience building backend applications and REST APIs using Ruby on Rails.
-
-Currently expanding my backend development skills with Python and FastAPI through hands-on projects.
+Backend developer with 3.5+ years of experience building REST APIs and web applications. Currently working with Python and FastAPI; previously built production applications with Ruby on Rails.
 
 ### Technical Skills
-
-- **Languages:** Ruby, Python, JavaScript
-- **Backend:** Ruby on Rails, FastAPI, REST APIs
+- **Languages:** Python, SQL, Ruby, JavaScript
+- **Backend:** FastAPI, SQLAlchemy, Alembic, Pydantic, REST APIs, JWT, Ruby on Rails
 - **Databases:** PostgreSQL, Redis
-- **Background Jobs:** Sidekiq, Celery, RQ
-- **Frontend:** React, HTML, CSS
-- **Tools:** Docker, Git, GitHub
+- **Background Jobs:** Celery, RQ, Sidekiq
+- **Frontend:** React
+- **Tools:** Docker, Docker Compose, Git, GitHub
 
 ### Projects
-
-- **Task Tracker API** – Backend project built using Python, FastAPI, Redis, Celery, RQ and Docker.
+- **[Team Task Tracker](https://github.com/anjana-sharma-dev/task-tracker)** – Full-stack task manager using FastAPI, PostgreSQL, Redis, Celery/RQ, React and Docker.
 - **Mailcoaster** – Email marketing application built using Ruby on Rails.
 - **News Feed API** – Backend API project using Ruby on Rails.
 
-### Currently Learning
-
-- Python backend development
-- FastAPI
-- Asynchronous programming
-- Celery and Redis
-- Docker
+### Currently Exploring
+- Role-based access control in FastAPI
+- Testing with Pytest
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/anjana-sharma-/).
