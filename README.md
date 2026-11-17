@@ -2,15 +2,31 @@
 
 ### Backend Engineer | Ruby on Rails | Python & FastAPI
 
-Backend Engineer with 3+ years of professional experience in building backend applications using Ruby on Rails.
+Backend Engineer with 3.5+ years of professional experience building backend applications and REST APIs using Ruby on Rails.
 
-**Technical Skills**
-- **Languages:** Ruby, Python
+Currently expanding my backend development skills with Python and FastAPI through hands-on projects.
+
+### Technical Skills
+
+- **Languages:** Ruby, Python, JavaScript
 - **Backend:** Ruby on Rails, FastAPI, REST APIs
-- **Database:** PostgreSQL, Redis
+- **Databases:** PostgreSQL, Redis
 - **Background Jobs:** Sidekiq, Celery, RQ
 - **Frontend:** React, HTML, CSS
 - **Tools:** Docker, Git, GitHub
 
 ### Projects
-- Task Tracker API – FastAPI, Redis, Celery, RQ and Docker.
+
+- **Task Tracker API** – Backend project built using Python, FastAPI, Redis, Celery, RQ and Docker.
+- **Mailcoaster** – Email marketing application built using Ruby on Rails.
+- **News Feed API** – Backend API project using Ruby on Rails.
+
+### Currently Learning
+
+- Python backend development
+- FastAPI
+- Asynchronous programming
+- Celery and Redis
+- Docker
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/anjana-sharma-/).
